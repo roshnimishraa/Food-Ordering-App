@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Mac & Cheese",
+    "price": "8.99",
+    "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Paneer Pizza",
+    "price": "12.99",
+    "description": "Paneer pizza blends Italian and Indian flavors, with a crispy crust, tomato sauce, mozzarella, and spiced paneer for a savory fusion.",
+    "image": "images/PaneerPizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Dosa",
+    "price": "7.99",
+    "description": "Dosa Sambar is a popular South Indian dish featuring a crispy dosa made from fermented rice and lentil batter, served with tangy, spiced sambar.",
+    "image": "images/dosa.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Biryani",
+    "price": "10.99",
+    "description": "Biryani is a fragrant and flavorful rice dish cooked with spices, herbs, and vegetables.",
+    "image": "images/biryani.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Veggie Burger",
+    "price": "9.99",
+    "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Idli",
+    "price": "10.99",
+    "description": "A popular breakfast food in South India, it offers a unique blend of flavors with coconut chutney.",
+    "image": "images/idli.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Dhokla",
+    "price": "17.99",
+    "description": "Dhokla is a savoury spongy Gujarati dish that is made with a fermented batter that is steamed to a cake-like consistency.  ",
+    "image": "images/dhokla.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Veg. Momos",
+    "price": "15.99",
+    "description": "Veg momos are savory Tibetan dumplings filled with a mix of finely chopped vegetables, wrapped in dough and steamed, often served with a dipping sauce.",
+    "image": "images/momos.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Cupcake",
+    "price": "13.99",
+    "description": "Indulge in a decadent treat with moist, rich chocolate cake topped with velvety frosting, perfect for satisfying sweet cravings.",
+    "image": "images/CupCake.jpeg"
+  },
+  {
+    "id": "m10",
+    "name": "Vegan healthy food",
+    "price": "11.99",
+    "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Chhole-Bhature",
+    "price": "19.99",
+    "description": "A Northern areas delicacy combination of chana masala and bhatura, a deep-fried bread made from maida.",
+    "image": "images/chhole-bhature.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Chocolate Cake",
+    "price": "8.99",
+    "description": "Indulge in a decadent chocolate cake infused with rich coffee flavors, a perfect blend of sweetness and boldness in every bite.",
+    "image": "images/chocolateCake.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Tandoori Paneer Tikka",
+    "price": "12.99",
+    "description": "It is an Indian dish made from chunks of paneer in spices and grilled in a tandoor.",
+    "image": "images/PaneerTikka.jpeg"
+  },
+  {
+    "id": "m14",
+    "name": "Pav Bhaji",
+    "price": "9.99",
+    "description": "Pavi Bhaji is very famous in Mumbai which consisting a thick spicy vegetable curry served with a soft buttered bread roll.",
+    "image": "images/pavBhaji.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Chocolate Brownie",
+    "price": "5.99",
+    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Samosa",
+    "price": "14.99",
+    "description": "A popular Indian snack filled with spiced potatoes and peas, perfect for a flavorful snack.",
+    "image": "images/Samosa.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Manchurian",
+    "price": "13.99",
+    "description": "A beloved Indo-Chinese delicacy featuring vegetable balls in a zesty, spicy sauce, harmonizing diverse textures and flavors for an exceptional dining delight.",
+    "image": "images/Manchurian.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Chilli Paneer",
+    "price": "11.99",
+    "description": "It is a popular Indo-Chinese dish where cubes of fried crispy paneer are tossed in a spicy sauce made with soy sauce, vinegar, chili sauce.",
+    "image": "images/ChilliPaneer.jpeg"
+  },
+  {
+    "id": "m19",
+    "name": "Lemon Cheesecake",
+    "price": "6.99",
+    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Maggie",
+    "price": "8.99",
+    "description": "Known for its instant soups and noodles, blending convenience with quality ingredients and bold flavors to satisfy cravings swiftly and deliciously.",
+    "image": "images/Maggie.jpg"
+  }
+]
