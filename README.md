@@ -2,7 +2,7 @@
 
 ## Technology Used 
 1. React.js
-2. express.js
+2. Express.js
 3. In frontend
  Data fetching typically involves making HTTP requests using fetch methods
 4. In Backend
