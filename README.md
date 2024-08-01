@@ -23,16 +23,19 @@
 
 ## Concepts Used:
 1. useState hook
-2. Context features allows us to spread data into all components that needed in a very easier and re-usuable way
-    createContext
-3. useReducer Hook: It allows us to manage complex state in much simpler way and it is easier to move that state management logic out of this component function 
-4. useContext Hook : It allows us to access to get context
-5. createPortal (react-dom): feature of react offers so that we can use this component from anywhere in our component tree but we always eject the dialog when its visible in a specific area of the real-dom that we as a developer controller upfront 
-6. useRef Hook: to access to dialog element 
+2. useContext hook
+<!-- Context features allows us to spread data into all components that needed in a very easier and re-usuable way
+    createContext -->
+3. useReducer Hook  <!--  : It allows us to manage complex state in much simpler way and it is easier to move that state management logic out of this component function  -->
+4. useContext Hook <!-- : It allows us to access to get context  -->
+5. createPortal (react-dom)
+<!--  feature of react offers so that we can use this component from anywhere in our component tree but we always eject the dialog when its visible in a specific area of the real-dom that we as a developer controller upfront -->
+6. useRef Hook
+<!-- to access to dialog element  -->
 7. props 
 8. custom hooks 
-     useHttp.js
+  <!--    useHttp.js -->
 9. useEffect hook 
-10. UseCallback : so that code doesn't stuck in infinity loop 
+10. UseCallback   <!-- : so that code doesn't stuck in infinity loop  -->
 
 
